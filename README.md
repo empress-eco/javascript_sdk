@@ -1,9 +1,18 @@
+
+<div align="center">
+
+<img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
+
 # JavaScript SDK: Streamline Your Backend Experience
-![JavaScript SDK logo](https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png
+
 
 Welcome to **JavaScript SDK**! This project is a versatile JavaScript library specifically designed to make working with a Framework backend a breeze. It simplifies database management, file uploads, API calls, and user authentication, helping you focus on what matters most - building amazing applications!
 
 Explore our official [website](https://empress.eco/) or visit the [documentation](https://grow.empress.eco/) to get started. For [bug reporting](https://github.com/empress-eco/javascript_sdk/issues) or [feature requests](https://github.com/empress-eco/javascript_sdk/issues), click on the respective links.
+
+</div>
+
+
 
 ## About The Project
 
